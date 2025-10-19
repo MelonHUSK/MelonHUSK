@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Doruk Akalın.
 
-I'm a computer science student at Northeastern University, class of 29.
+I am a computer science student at Northeastern University, class of 29.
 
 <!--
 **MelonHUSK/MelonHUSK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
